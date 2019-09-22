@@ -16,8 +16,8 @@ int main()
             struct student record;
  
             record.id=1;
-            strcpy(record.name, "Raju");
-            record.percentage = 86.5;
+            strcpy(record.name, "kishore");
+            record.percentage = 80.5;
  
             func(record);
             return 0;
